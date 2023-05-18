@@ -4,11 +4,11 @@
 
 <img src="./docs/preview-gif.gif" alt="Application preview">
 
-## 🏁 Online Application
+##  Online Application
 
 > [3D Store: Mario Cart](https://mario-cart-computacao-gracifa.vercel.app/)
 
-## 🚀 How to run the application
+##  How to run the application
 
 1. Open the terminal at the root of the project and install the dependencies:
 ```bash
