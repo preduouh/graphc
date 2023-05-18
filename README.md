@@ -1,14 +1,14 @@
-# PÁ
+# PÁ #
 
 > Product simulation page for a 3D product store
 
 <img src="./docs/preview-gif.gif" alt="Application preview">
 
-##  Online Application
+##  Online Application ##
 
 > [3D Store: Mario Cart](https://mario-cart-computacao-gracifa.vercel.app/)
 
-##  How to run the application
+##  How to run the application ##
 
 1. Open the terminal at the root of the project and install the dependencies:
 ```bash
@@ -36,7 +36,7 @@ yarn start
 * Styled Components
 * React Icons
 
-## 🤝 Contributors
+##Contributors##
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ yarn start
   </tr>
 </table>
 
-## ‍⚖️ License
+## ‍License ##
 The MIT License (MIT)
 
 Copyright (c) 2023 Pedro Luiz Zuviollo
