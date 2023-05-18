@@ -20,11 +20,11 @@
 </table>
 
 ## Tecnologias e Bibliotecas Utilizadas
-ReactJS
-ThreeJS
-Modelo 3D do Mario Kart
-Styled Components
-React Icons
+*ReactJS
+*ThreeJS
+*Modelo 3D do Mario Kart
+*Styled Components
+*React Icons
 
 # Licença
 The MIT License (MIT)
