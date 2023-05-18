@@ -6,7 +6,7 @@
 
 <img src="./docs/preview-gif.gif" alt="Application preview">
 
-##  Online Application ##
+##  Aplicacao online ##
 
 
 
