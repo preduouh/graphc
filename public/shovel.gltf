@@ -1,0 +1,375 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        2.224203586578369,
+        9.454821586608887,
+        89.10832214355469
+      ],
+      "min": [
+        -2.1682581901550293,
+        -9.454829216003418,
+        -2.21417236328125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18684,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        0.9999390840530396,
+        0.9999518990516663,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999518394470215,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        0.99462890625,
+        0.9972858428955078
+      ],
+      "min": [
+        0.00228118896484375,
+        0.0087890625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12456,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        0.99462890625,
+        0.9972858428955078
+      ],
+      "min": [
+        0.00228118896484375,
+        0.0087890625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24912,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        0.99462890625,
+        0.9972858428955078
+      ],
+      "min": [
+        0.00228118896484375,
+        0.0087890625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 37368,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        0.99462890625,
+        0.9972858428955078
+      ],
+      "min": [
+        0.00228118896484375,
+        0.0087890625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 49824,
+      "componentType": 5126,
+      "count": 1557,
+      "max": [
+        0.99462890625,
+        0.9972858428955078
+      ],
+      "min": [
+        0.00228118896484375,
+        0.0087890625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6324,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "MaX3Dd (https://sketchfab.com/MaX3Dd)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/shovel-low-poly-a402ec2c06d04bd09b301c2a76d2f630",
+      "title": "Shovel Low-poly"
+    },
+    "generator": "Sketchfab-15.19.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 25296,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62280,
+      "byteOffset": 25296,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37368,
+      "byteOffset": 87576,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24912,
+      "byteOffset": 124944,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 149856,
+      "uri": "shovel.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Shovel_baseColor.png"
+    },
+    {
+      "uri": "textures/Shovel_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Shovel_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Shovel",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shovel_Shovel_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Shovel.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.9470718382041952e-07,
+        0.9999999999999811,
+        2.220446049250313e-16,
+        0.0,
+        -0.37103554424525176,
+        7.224328602006835e-08,
+        -0.9286186649570558,
+        0.0,
+        -0.9286186649570383,
+        1.8080872515868762e-07,
+        0.37103554424525875,
+        0.0,
+        3.814697265625e-06,
+        2.307216167449951,
+        5.7220458984375e-06,
+        1.0
+      ],
+      "name": "Shovel"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.027972698211669922,
+        7.001284757279791e-06,
+        -43.44707107543945,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "mesh": 0,
+      "name": "Shovel_Shovel_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
