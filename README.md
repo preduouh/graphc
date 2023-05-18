@@ -1,6 +1,7 @@
 # PÁ #
 
-> [shovel](https://github.com/preduouh/graphc/assets/58116134/b3eef9ef-3a95-4434-aeae-8990d9e964ac)
+![shovel](https://github.com/preduouh/graphc/assets/58116134/848c029a-b051-4896-b94f-e5c1b875ac95)
+
 
 
 <img src="./docs/preview-gif.gif" alt="Application preview">
