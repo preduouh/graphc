@@ -8,7 +8,7 @@
 
 ##  Online Application ##
 
-> [3D Store: Mario Cart](https://mario-cart-computacao-gracifa.vercel.app/)
+
 
 ##  How to run the application ##
 
