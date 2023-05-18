@@ -1,6 +1,6 @@
 # PÁ #
 
-> Product simulation page for a 3D product store![shovel](https://github.com/preduouh/graphc/assets/58116134/b3eef9ef-3a95-4434-aeae-8990d9e964ac)
+> [shovel](https://github.com/preduouh/graphc/assets/58116134/b3eef9ef-3a95-4434-aeae-8990d9e964ac)
 
 
 <img src="./docs/preview-gif.gif" alt="Application preview">
