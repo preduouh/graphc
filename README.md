@@ -12,32 +12,33 @@
 
 ##  Como  rodar  ##
 
-1. Open the terminal at the root of the project and install the dependencies:
+1. Abra o terminal na raiz do projeto e instale as dependências:
 ```bash
 npm install
 ```
-or
+ou
 ```bash
 yarn
 ```
 
-2. Run the project:
+2. Rode o projeto:
 ```bash
 npm start
 ```
-or
+ou
+
 ```bash
 yarn start
 ```
 
-## Technologies and Libraries Used
+## Technologias usadas
 
 * ReactJS
 * ThreeJS
 * Styled Components
 * React Icons
 
-##Contributors##
+## Contribuidores
 
 <table>
   <tr>
