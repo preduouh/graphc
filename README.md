@@ -34,7 +34,6 @@ yarn start
 
 * ReactJS
 * ThreeJS
-* Mario Kart 3D model
 * Styled Components
 * React Icons
 
