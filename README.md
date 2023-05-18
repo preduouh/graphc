@@ -41,8 +41,6 @@ yarn start
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Vini7Dev" target="_blank">
-        <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Vinícius Gabriel's photo on GitHub"><br>
         <sub>
           <b>Pedro Luiz Zuviollo</b>
         </sub>
