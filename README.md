@@ -28,7 +28,7 @@ or
 yarn start
 ```
 
-## 💻 Technologies and Libraries Used
+## Technologies and Libraries Used
 
 * ReactJS
 * ThreeJS
