@@ -5,15 +5,15 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1`
-    @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200&display=swap');
-    font-family: "unbonded",cursive;
+    @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;700&display=swap');
+    font-family: "unbounded", cursive;
     font-size: 84px;
     margin: 0;
 `;
 
 export const SubTitle = styled.p`
-    @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200&display=swap');
-    font-family: "unbonded",cursive;
+    @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;700&display=swap');
+    font-family: "unbounded", cursive;
     font-size: 84px;
     margin: 0;
 `;
